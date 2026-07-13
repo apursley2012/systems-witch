@@ -1,0 +1,1 @@
+import{j as e}from"../assets/jsx-runtime.js";const o=({text:t,as:a="h2",className:i=""})=>e.jsx("div",{className:`glitch-wrapper ${i}`,children:e.jsx(a,{className:"glitch-text relative inline-block font-mono font-bold text-bone","data-text":t,children:t})});export{o as G};
